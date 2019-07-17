@@ -20,9 +20,11 @@ These instructions will get you a copy of the project up and running on your loc
 ## Acknowledgement
 ### Contributors
 * Supervisor - Iftekhar Mahmud Towhid
-* Project Partner - Nikkon Paul Karan
-* Project Partner - Mahmud Faoysal Sumon
-* Project Partner - Farian Rahman
-* Project Partner - Munna Hossain
+* Developing Team - 
+* Azhar Uddin Azad
+* Farian Rahman
+* Mahmud Foysal Sumon
+* Munna Hossain
+* Nikkon Paul Karan
 
 
